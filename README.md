@@ -1,1 +1,1 @@
-# html://wllc.github.io/job_personalresume
+http://wllc.github.io/job_personalresume
